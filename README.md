@@ -8,7 +8,7 @@
 <a href="https://fonts.google.com/">Fontes para sites</a><br>
 <a href="https://coolors.co/">Gerador de paletas de cores</a><br>
 <a href="http://www.seomaster.com.br/ferramenta-analise-seo-gratis.html">Ferramenta SEO</a><br>
-<a href="http://www.seomaster.com.br/ferramenta-analise-seo-gratis.html>Ferramenta teste reponsive</a>
+<a href="http://www.seomaster.com.br/ferramenta-analise-seo-gratis.html">Ferramenta teste reponsive</a>
 
 
 
